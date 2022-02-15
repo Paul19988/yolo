@@ -15,7 +15,7 @@ git add -A && \
 ## installation
 
 ```sh
-curl -L https://raw.githubusercontent.com/atongen/yolo/master/install.sh | sudo bash
+curl -L https://raw.githubusercontent.com/Paul19988/yolo/master/install.sh | sudo bash
 ```
 
 ## contributing
