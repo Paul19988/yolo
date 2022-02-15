@@ -12,5 +12,5 @@ else
 fi
 
 echo "Setting up git $flag alias: yolo"
-cmd='git add -A && git commit -am "`curl -s http://whatthecommit.com/index.txt `" && git push -f origin master'
+cmd='git add -A && git commit -am "`curl -s http://whatthecommit.com/index.txt `" && git push -f origin alt/maven/mc116'
 git config --$flag alias.yolo \!"$cmd"
